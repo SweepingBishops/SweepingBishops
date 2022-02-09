@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SweepingBishops
 - 👀 I’m interested in programming, piano and chess.
 - 🌱 I’m currently learning python and mysql.
-- 💞️ I’m looking to collaborate on any intermediate python projects.
+- 💞️ I’m looking to collaborate on any python projects.
 - 📫 How to reach me ...
 
 <!---
