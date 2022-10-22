@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SweepingBishops
 - 👀 I’m interested in programming, piano and chess.
 - 🌱 I’m currently learning python and rust.
-- 💞️ I’m looking to collaborate on any python projects.
+- 💞️ I’m looking to collaborate on any python and/or rust projects.
 - 📫 How to reach me :
   - roshanmathewphilip@vivaldi.net
 
